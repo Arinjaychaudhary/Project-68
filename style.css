@@ -1,0 +1,7 @@
+body{
+text-align:center;
+}
+.mynavtag{
+position:sticky;
+z-index:9999;
+}
